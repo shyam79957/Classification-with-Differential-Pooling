@@ -20,11 +20,7 @@ We leverage the TU Dataset (from [TUDataset](https://chrsmrrs.github.io/datasets
 - Multi-layer GNN encoder
 - Differentiable pooling layers
 - Final MLP classifier for graph-level prediction
-- Node features and edge connectivity preserved through the DGL pipeline
 
-## 🚀 Setup Instructions
+## ⚙️ Setup Instructions (Google Colab)
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/graph-diffpool-enzymes.git
-cd graph-diffpool-enzymes
+All dependencies are installed within the Colab notebook using `pip`.
